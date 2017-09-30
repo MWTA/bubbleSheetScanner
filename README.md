@@ -10,6 +10,8 @@ hosted on a server.
 This is the computer vision module of the project. An Android app is being
 developed.
 
+## Authors
+This project is coauthored by Sibo Wang, Ruiqi (Zoe) Li, and Ruiqian (Ryan) Yao.
 
 ## Implementation
 
